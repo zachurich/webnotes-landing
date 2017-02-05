@@ -1,0 +1,16 @@
+components/
+node_modules/
+pages/
+utils/
+wrappers/
+
+.DS_Store
+.travis.yml
+config.toml
+html.js
+LICENSE
+netlify.toml
+package.json
+
+.gatsby-context.js
+.sass-cache/
